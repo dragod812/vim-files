@@ -43,3 +43,48 @@
 [submodule ".vim/bundle/awesome-vim-colorschemes"]
 	path = .vim/bundle/awesome-vim-colorschemes
 	url = https://github.com/rafi/awesome-vim-colorschemes.git
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/vim-easymotion"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion.git
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/youcompleteme"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/youcompleteme
+	url = https://github.com/valloric/youcompleteme.git
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/rainbow_parentheses.vim"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/rainbow_parentheses.vim
+	url = https://github.com/kien/rainbow_parentheses.vim.git
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/vim"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/vim
+	url = https://github.com/rainglow/vim.git
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/vim-powerline"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/nerdcommenter"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/nerdtree"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/vim-airline-themes"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/vim-airline"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/python-mode"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/python-mode
+	url = https://github.com/klen/python-mode.git
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/vim-sensible"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/vim-nerdtree-tabs"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/vim-nerdtree-tabs
+	url = https://github.com/jistr/vim-nerdtree-tabs.git
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/Vundle.vim"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim.git
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/ctrlp.vim"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "/home/sidharthpadhee/vim-files/.vim/bundle/awesome-vim-colorschemes"]
+	path = /home/sidharthpadhee/vim-files/.vim/bundle/awesome-vim-colorschemes
+	url = https://github.com/rafi/awesome-vim-colorschemes.git
